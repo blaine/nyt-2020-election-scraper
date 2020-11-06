@@ -1,6 +1,6 @@
 ----------------------  --------------------------------------------------------------------------------
-Last updated:           2020-11-06 21:35 UTC
-Latest batch received:  2020-11-06 21:34 UTC
+Last updated:           2020-11-06 21:41 UTC
+Latest batch received:  2020-11-06 21:40 UTC
 Prettier web version:   https://alex.github.io/nyt-2020-election-scraper/battleground-state-changes.html
 ----------------------  --------------------------------------------------------------------------------
 
@@ -44,8 +44,9 @@ Arizona (EV: 11) Total Votes: (Biden: 1,562,200, Trump: 1,521,246)
 2020-11-04 13:28  ---  Biden leading by 130,665 votes  Remaining (est.): 523,515    Change:       0 (n/a)                        Precincts: 1243/1489  Trump needs 62.48% [62.480%]  Trump recent trend n/a     Suspense: 0.00%
 ----------------  ---  ------------------------------  ---------------------------  -------------------------------------------  --------------------  ----------------------------  -------------------------  ----------------
 
-Georgia (EV: 16) Total Votes: (Biden: 2,450,531, Trump: 2,448,985)
+Georgia (EV: 16) Total Votes: (Biden: 2,450,558, Trump: 2,448,994)
 ----------------  ---  ------------------------------  -------------------------  ----------------------------------------------  --------------------  ----------------------------  -------------------------  ----------------
+2020-11-06 21:40  ***  Biden leading by 1,563 votes    Remaining (est.): 3,754    Change:      18 (Biden 47.2% / 52.8% Trump)     Precincts: 2643/2655  Trump needs 70.82% [0.086%]   Trump recent trend 63.27%  Suspense: 88.93%
 2020-11-06 21:21  ***  Biden leading by 1,564 votes    Remaining (est.): 3,772    Change:      37 (Biden 74.3% / 25.7% Trump)     Precincts: 2643/2655  Trump needs 70.73% [0.438%]   Trump recent trend 63.27%  Suspense: 89.05%
 2020-11-06 21:16  ***  Biden leading by 1,546 votes    Remaining (est.): 3,809    Change:     134 (Biden 23.9% / 76.1% Trump)     Precincts: 2643/2655  Trump needs 70.29% [-0.198%]  Trump recent trend 63.31%  Suspense: 89.65%
 2020-11-06 20:40  ---  Biden leading by 1,616 votes    Remaining (est.): 3,943    Change:     195 (Biden 56.2% / 43.8% Trump)     Precincts: 2643/2655  Trump needs 70.49% [1.256%]   Trump recent trend 63.13%  Suspense: 89.15%
@@ -215,8 +216,9 @@ Nevada (EV: 6) Total Votes: (Biden: 627,104, Trump: 606,967)
 2020-11-04 13:28  ---  Biden leading by 7,647 votes   Remaining (est.): 202,563  Change:       0 (n/a)                        Precincts: 1610/1993  Trump needs 51.89% [51.888%]  Trump recent trend n/a     Suspense: 0.00%
 ----------------  ---  -----------------------------  -------------------------  -------------------------------------------  --------------------  ----------------------------  -------------------------  ----------------
 
-Pennsylvania (EV: 20) Total Votes: (Biden: 3,315,215, Trump: 3,300,484)
+Pennsylvania (EV: 20) Total Votes: (Biden: 3,315,215, Trump: 3,300,488)
 ----------------  ---  ------------------------------  ---------------------------  ---------------------------------------------  --------------------  ----------------------------  -------------------------  ----------------
+2020-11-06 21:40  ***  Biden leading by 14,518 votes   Remaining (est.): 113,497    Change:     527 (Biden 30.2% / 69.8% Trump)    Precincts: 8486/9128  Trump needs 56.40% [-0.062%]  Trump recent trend 35.76%  Suspense: 58.94%
 2020-11-06 21:34  ***  Biden leading by 14,727 votes   Remaining (est.): 114,024    Change:       2 (Biden -50.0% / 150.0% Trump)  Precincts: 8485/9128  Trump needs 56.46% [-0.002%]  Trump recent trend 35.17%  Suspense: 57.91%
 2020-11-06 21:26  ***  Biden leading by 14,731 votes   Remaining (est.): 114,026    Change:     214 (Biden 54.2% / 45.8% Trump)    Precincts: 8485/9128  Trump needs 56.46% [0.020%]   Trump recent trend 35.16%  Suspense: 57.89%
 2020-11-06 21:21  ***  Biden leading by 14,713 votes   Remaining (est.): 114,240    Change:      11 (Biden 36.4% / 63.6% Trump)    Precincts: 8485/9128  Trump needs 56.44% [-0.001%]  Trump recent trend 35.09%  Suspense: 57.79%
